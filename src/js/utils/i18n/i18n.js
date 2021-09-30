@@ -670,10 +670,10 @@ export default {
     'Load more'
   ],
   COMMENTS_NO_COMMENTS: [
-    '没有评论',
-    '沒有評論',
-    '沒有評論',
-    'No comment'
+    '可恶，居然没有评论！！',
+    '可惡，居然沒有評論！！',
+    '可惡，居然沒有評論！！',
+    'My Gosh, No comment!!'
   ],
   COMMENT_EXPAND: [
     '展开',

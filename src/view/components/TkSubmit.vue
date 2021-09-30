@@ -106,7 +106,7 @@ export default {
       return this.$refs.textarea ? this.$refs.textarea.$refs.textarea : null
     },
     commentPlaceholder () {
-      let ph = this.$twikoo.placeholder || this.config.COMMENT_PLACEHOLDER || ''
+      let ph = this.$twikoo.placeholder || this.config.COMMENT_PLACEHOLDER || '有朋自远方来，请多指教~(昵称输入QQ试试)'
       ph = ph.replace(/<br>/g, '\n')
       return ph
     }
